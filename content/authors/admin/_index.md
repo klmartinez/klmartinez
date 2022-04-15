@@ -42,6 +42,6 @@ superuser: true
 title: Kiana Lee Martinez
 ---
 
-Kiana Martinez is a Postdoctoral Research Associate in the Karnes Laboratory at the University of Arizona. Her research interests include identifying genetic mechanisms that underlie complex diseases particularly in under-served populations. 
+I am a Postdoctoral Research Associate in the Karnes Laboratory at the University of Arizona. My research interests include identifying genetic factors that underlie complex diseases and adverse drug reactions particularly in underrepresented populations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/KianaMartinez-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
