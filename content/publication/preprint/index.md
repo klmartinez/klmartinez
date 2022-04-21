@@ -31,7 +31,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Blood*'
+publication: '*Blood* [in press]'
 publication_short: ""
 publication_types:
 - "3"

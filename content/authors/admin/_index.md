@@ -14,6 +14,7 @@ highlight_name: true
 interests:
 - Human Genetics
 - Pharmacogenomics
+- Bioinformatics
 - Data Science
 organizations:
 - name: University of Arizona
@@ -42,6 +43,6 @@ superuser: true
 title: Kiana Lee Martinez
 ---
 
-I am a Postdoctoral Research Associate in the Karnes Laboratory at the University of Arizona. My research interests include identifying genetic factors that underlie complex diseases and adverse drug reactions particularly in underrepresented populations.
+I am a Postdoctoral Research Associate in the Karnes Laboratory at the University of Arizona. My research interests include identifying genetic factors that underlie complex diseases and adverse drug reactions particularly in underrepresented populations.Currently, my research primarily focuses on using large genomic datasets to identify genetic variants that are associated with complex disease and adverse drug reactions, often by employing genome-wide association study (GWAS) methods, in diverse and admixed cohorts. Specifically, I have two ongoing projects: 1) examining local and global ancestry in a self-identified Hispanic/Latino cohort in relation to pharmacogenetic variants associated with depression and anxiety, and 2) identifying disease associations to ABO blood group subtypes in the All of Us study. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/KianaMartinez-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
